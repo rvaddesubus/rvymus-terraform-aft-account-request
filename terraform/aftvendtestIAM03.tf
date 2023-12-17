@@ -5,6 +5,9 @@ module "aftvendtestIAM03" {
     AccountEmail              = "rvadde+ymus-vend121703@skepticservices.com"
     AccountName               = "AFT_Vend_Test_IAM_121703"
     ManagedOrganizationalUnit = "Workloads(ou-ty2s-ljetjmp9)"
+    SSOUserEmail              = "rajesh.vadde@trace3.com"
+    SSOUserFirstName          = "Raje"
+    SSOUserLastName           = "V"
   }
 
   account_tags = {
