@@ -6,7 +6,7 @@ module "aftvendtestIAM01" {
     AccountName               = "AFT_Vend_Test_IAM_1217"
     ManagedOrganizationalUnit = "Workloads(ou-ty2s-ljetjmp9)"
     SSOUserEmail              = "rajesh.vadde@trace3.com"
-    SSOUserFirstName          = "Raj"
+    SSOUserFirstName          = "Raje"
     SSOUserLastName           = "V"
   }
 
